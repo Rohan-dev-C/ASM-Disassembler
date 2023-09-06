@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "7.24.ComputerArchitecture.Disassembler": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\rohan\\OneDrive\\Desktop\\BinaryCopy.txt"
+    }
+  }
+}
